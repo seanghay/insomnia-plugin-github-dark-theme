@@ -7,7 +7,7 @@ const primer = getColors(style);
 
 module.exports = {
   name: "github-light-theme",
-  displayName: "Github Light Theme",
+  displayName: "Github Light",
   theme: {
     foreground: {
       default: pick({ light: primer.gray[6] }),
@@ -16,7 +16,7 @@ module.exports = {
       default: pick({ light: primer.white }),
       success: pick({ light: primer.blue[5] }),
       notice: pick({ light: primer.orange[6] }),
-      warning: pick({ light: primer.gray[5] }),
+      warning: pick({ light: primer.orange[7] }),
       danger: pick({ light: primer.red[7] }),
       surprise: pick({ light: primer.red[5] }),
       info: pick({ light: primer.blue[7] }),
