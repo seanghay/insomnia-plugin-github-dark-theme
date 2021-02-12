@@ -8,3 +8,6 @@ This is a GitHub dark theme plugin for [Insomnia](https://insomnia.rest).
 ## Installation
 
 Install the `insomnia-plugin-github-dark-theme` plugin from Preferences > Plugins.
+
+
+Looking for light theme? Check this out: [insomnia-plugin-github-dark-theme](https://insomnia.rest/plugins/insomnia-plugin-github-light-theme)
