@@ -21,8 +21,8 @@
   "homepage": "https://github.com/seanghay/insomnia-plugin-github-light-theme#readme",
   "insomnia": {
     "name": "github-light-theme",
-    "displayName": "Github Light Theme",
-    "description": "A Github light theme for insomnia",
+    "displayName": "GitHub Light Theme",
+    "description": "A GitHub light theme for Insomnia",
     "applications": {
       "core": "*"
     },
