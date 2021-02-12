@@ -1,4 +1,4 @@
-const GitHubLightTheme = require('./themes/github-light-theme');
+const GitHubDarkTheme = require('./themes/github-dark-theme');
 
-module.exports.themes = [GitHubLightTheme];
+module.exports.themes = [GitHubDarkTheme];
 

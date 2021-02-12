@@ -1,11 +1,11 @@
 {
-  "name": "insomnia-plugin-github-light-theme",
+  "name": "insomnia-plugin-github-dark-theme",
   "version": "1.0.4",
   "description": "A Github light theme for Insomnia",
   "main": "plugin.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seanghay/insomnia-plugin-github-light-theme.git"
+    "url": "git+https://github.com/seanghay/insomnia-plugin-github-dark-theme.git"
   },
   "keywords": [
     "insomnia-plugin",
@@ -16,13 +16,13 @@
   "author": "Seanghay Yath <seanghay.dev@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seanghay/insomnia-plugin-github-light-theme/issues"
+    "url": "https://github.com/seanghay/insomnia-plugin-github-dark-theme/issues"
   },
-  "homepage": "https://github.com/seanghay/insomnia-plugin-github-light-theme#readme",
+  "homepage": "https://github.com/seanghay/insomnia-plugin-github-dark-theme#readme",
   "insomnia": {
-    "name": "github-light-theme",
-    "displayName": "GitHub Light Theme",
-    "description": "A GitHub light theme for Insomnia",
+    "name": "github-dark-theme",
+    "displayName": "GitHub Dark Theme",
+    "description": "A GitHub dark theme for Insomnia",
     "applications": {
       "core": "*"
     },
@@ -30,7 +30,7 @@
       "name": "Seanghay Yath"
     },
     "images": {
-      "icon": "github-light.svg"
+      "icon": "github-dark.svg"
     }
   },
   "dependencies": {
