@@ -35,7 +35,7 @@ module.exports = {
       },
       transparentOverlay: {
         background: {
-          default: "rgba(240, 240, 240, 0.4)",
+          default: "rgba(0, 0, 0, 0.6)",
         },
         foreground: {
           default: "#555",
